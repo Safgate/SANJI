@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+ #!/usr/bin/env python3
 """
 FastAPI entry point for the Jarvis‑style AI assistant.
 It exposes:
